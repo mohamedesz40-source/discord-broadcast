@@ -5,7 +5,7 @@ module.exports = {
         //  "YOUR_SECOND_BOT_TOKEN_HERE",      // 2 bot token - Uncomment and replace to use
         //  "YOUR_THIRD_BOT_TOKEN_HERE",       // 3 bot token - Uncomment and replace to use
         //  "YOUR_FOURTH_BOT_TOKEN_HERE",      // 4 bot token - Uncomment and replace to use
-        //  "YOUR_FIFTH_BOT_TOKEN_HERE",       // 5 bot token - Uncomment and replace to use
+        //  "MTUxMTgyNzQ4OTYwMzk3NzQ1Nw.G9YLJE.GPdwH_WRwjIn3OjCsmFdn0f8vUgBVczuPHUyec",       // 5 bot token - Uncomment and replace to use
         ].filter(Boolean),
 
         defaultLanguage: 'ar', // ar | en لغة البوت
